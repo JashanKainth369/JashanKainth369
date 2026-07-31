@@ -105,7 +105,6 @@ ResNet-50 + PyTorch model trained on the PlantVillage dataset to classify plant 
   <img src="https://raw.githubusercontent.com/JashanKainth369/JashanKainth369/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
 </p>
 
-> ⚙️ This animates your real contribution graph as a snake eating through your commits. It needs a one-time GitHub Actions setup — instructions below.
 
 ---
 
