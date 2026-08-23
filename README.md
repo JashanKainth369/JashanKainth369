@@ -22,8 +22,6 @@
 - 🌱 Currently deepening my skills in **Data Structures & Algorithms**, **OOP (C++)**, and **Machine Learning**
 - 🔭 Working on ML/AI projects — most recently a **crop disease detection model** using ResNet-50 & PyTorch
 - 🧩 Enjoy solving problems on LeetCode and building fun projects on the side (arcade games, puzzles)
-- 💡 Exploring internship opportunities in **Data Science**
-- ⚡ Fun fact: I build games in Python when I need a break from DSA grinding
 
 ---
 
