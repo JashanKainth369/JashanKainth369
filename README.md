@@ -71,6 +71,20 @@ ResNet-50 + PyTorch model trained on the PlantVillage dataset to classify plant 
 </table>
 
 ---
+## 📊 GitHub Analytics Dashboard
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rakshit05code&show_icons=true&theme=discord&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshit05code&layout=compact&langs_count=10&theme=discord&hide_border=true"/>
+
+</div>
+
+<div align="center">
+  
+<img src="https://streak-stats.demolab.com?user=Rakshit05code&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph" />
+
+</div>
 
 ### 🐍 Contribution Snake
 
